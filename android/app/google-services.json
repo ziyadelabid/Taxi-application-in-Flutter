@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "684772909183",
+    "firebase_url" : "https://taxi-application-6955f-default-rtdb.firebaseio.com/",
+    "project_id": "taxi-application-6955f",
+    "storage_bucket": "taxi-application-6955f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684772909183:android:4ac3bd0133bb4de22b5f4a",
+        "android_client_info": {
+          "package_name": "com.example.taxi_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684772909183-db3s5a3eikblegqkdjl05iidas5hjg1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz70BYPfU_42cVzQSqUcmMs7NAGDbUrLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684772909183-db3s5a3eikblegqkdjl05iidas5hjg1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
